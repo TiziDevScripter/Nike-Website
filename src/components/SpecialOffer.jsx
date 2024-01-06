@@ -15,7 +15,7 @@ const SpecialOffer = () => {
                 <p className="text-gray-600 mb-6 ms:max-w-sm">Lorem ipsum dolor sit amet consectetur adipisicing elit. Non, necessitatibus soluta saepe laboriosam ducimus minima.</p>
                 <div className="flex gap-2">
                     <Button label="Shop now" iconUrl={arrowRight} />
-                    <Button label="Learn more" />
+                    <Button label="Learn more" backgroundColor="bg-white" textColor="text-slate-gray" borderColor="border-slate-gray" />
                 </div>
             </article>
             <article className="flex flex-1 justify-center items-center">
